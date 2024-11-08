@@ -1,4 +1,4 @@
-import { ESLint } from "eslint";
+const { ESLint } = require("eslint");
 
 /** @type {ESLint.Options} */
 export default {
